@@ -61,6 +61,7 @@ Open the Tableau workbook file (`Inmate_Count_Analysis.twbx`) in Tableau Desktop
 
 - **Python**: Primary language for data analysis.
 - **Pandas**: For handling data cleaning and transformation.
+- **PDFPlumber: To extract data from PDF reports.
 - **Matplotlib**: For generating visualizations during analysis.
 - **Openpyxl**: To work with Excel files.
 - **Tableau**: Used for creating the interactive dashboard.
@@ -84,5 +85,7 @@ Key insights derived from the analysis include:
 - **Population Trends**: Understanding seasonal or temporal changes in inmate counts.
 - **Facility Utilization**: Variations in inmate populations across facilities.
 - **Date-Specific Analysis**: Daily changes in inmate counts, offering insights into operational trends.
+
+- 
 
 ---
