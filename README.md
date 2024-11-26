@@ -21,7 +21,7 @@ To set up this project locally, follow these steps:
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/<Your-Username>/Massachusetts-Department-of-Correction-Inmate-Analysis.git
+git clone https://github.com/Hari-Arunachalam/Massachusetts-Department-of-Correction-Inmate-Analysis.git
 cd Massachusetts-Department-of-Correction-Inmate-Analysis
 ```
 
