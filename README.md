@@ -86,6 +86,8 @@ Key insights derived from the analysis include:
 - **Facility Utilization**: Variations in inmate populations across facilities.
 - **Date-Specific Analysis**: Daily changes in inmate counts, offering insights into operational trends.
 
-- 
-
 ---
+
+## View the Tableau Visualization
+
+- **You can view the interactive Tableau dashboard here.
